@@ -1,5 +1,5 @@
 ### BUILDING A BLOG USING MERN - Frontend
-
+https://github.com/gurnitha/mern-blog-front
 
 #### 1. Create a react app and modified the file structure
 
@@ -46,4 +46,19 @@
         new file:   tailwind.config.js
 
         > npx tailwindcss-cli@latest init
-        
+
+
+#### 6. Create Github repository and pust the files to it
+
+        https://github.com/gurnitha/mern-blog-front
+
+        λ git remote add origin git@github.com:gurnitha/mern-blog-front.git
+
+        E:\workspace\MERN\blog\my-blog (master)
+        λ git branch -M main
+
+        E:\workspace\MERN\blog\my-blog (main)
+        λ git push -u origin main
+        Enter passphrase for key '/c/Users/hp/.ssh/id_rsa':
+
+        modified:   README.md
