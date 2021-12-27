@@ -8,3 +8,14 @@
         modified:   README.md
         deleted:    src/App.test.js
 
+
+#### 2. Install packages
+
+       > npm install tailwindcss
+       > npm install autoprefixer -D
+       > npm install npm-run-all -D
+       > npm install postcss -D
+
+        modified:   README.md
+        new file:   package-lock.json
+        modified:   package.json
