@@ -62,3 +62,12 @@ https://github.com/gurnitha/mern-blog-front
         Enter passphrase for key '/c/Users/hp/.ssh/id_rsa':
 
         modified:   README.md
+
+
+#### 7. Modified package.json file
+
+        Change from: "react-scripts:start": "start 5 && react-scripts start",
+        Change to: "react-scripts:start": "timeout 5 && react-scripts start",
+        
+        modified:   README.md
+        modified:   package.json
