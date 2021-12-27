@@ -25,3 +25,12 @@
 
         modified:   README.md
         modified:   package.json
+
+
+#### 4. Delete index.css and Create styles folder and index.css file
+
+        modified:   README.md
+        deleted:    src/index.css
+        modified:   src/index.js
+        new file:   src/styles/index.css
+
