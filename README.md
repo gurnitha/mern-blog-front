@@ -19,3 +19,9 @@
         modified:   README.md
         new file:   package-lock.json
         modified:   package.json
+
+
+#### 3. Modifying package.json file
+
+        modified:   README.md
+        modified:   package.json
